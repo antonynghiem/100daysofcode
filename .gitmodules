@@ -1,0 +1,3 @@
+[submodule "AngularTourOfHeroes"]
+	path = AngularTourOfHeroes
+	url = https://github.com/antonynghiem/AngularTourOfHeroes.git
